@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning system design
 - 💞️ I’m looking to collaborate on scalable system design architecture and computer vision problems
 - 📫 How to reach me : thati.anand9@gmail.com
-- 🚀 Resume: anandthati.github.io
+- 🚀 Resume: [anandthati.github.io](https://anandthati.github.io/)
 
 <!---
 anandthati/anandthati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
